@@ -1,9 +1,9 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm [Dong Pham](https://github.com/thienma1258), a Software Engineer from Vietnam.
+I'm [Dong Pham](https://github.com/thienma1258)  full Stack engineer, Blockchain enthusiast.🔥
 
-- 🔭 I’m currently working on Go, Microservices and DevOps.
-- 🌱 I’m currently learning Distributed System, Cloud Native and System Design.
+- 🔭 I’m currently working on Go,React(nextjs),  Microservices and DevOps.
+- 🌱 I’m currently learning Distributed System, Cloud Native and System Design, Web3, Blockchain ,NFT .
 
 ![](  ![visitors](https://visitor-badge.glitch.me/badge?page_id=ngocdongpham.thienma1258&left_color=green&right_color=red))
 
